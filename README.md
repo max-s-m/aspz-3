@@ -1,3 +1,3 @@
 # test
 
-## [link to 1.c](aspz-3/1.c)
+## [link to 2.c](2.c)
