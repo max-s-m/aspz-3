@@ -127,7 +127,7 @@ root@fe7c9996b432:/# ulimit -n
 100 
 root@fe7c9996b432:/# ./2 
 Limit reached. Opened 97 files 
-root@fe7c9996b432:/# perf-version 
+root@fe7c9996b432:/# perf --version 
 perf version 6.8.12 
 root@fe7c9996b432:/# 
 ```
